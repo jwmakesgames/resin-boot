@@ -1,0 +1,17 @@
+{
+  "applicationId": 1899541,
+  "deviceType": "raspberrypi4-64",
+  "userId": "7ed3e62a-9678-4dad-a5e6-f014b0cc5423",
+  "appUpdatePollInterval": 600000,
+  "listenPort": 80,
+  "vpnPort": 443,
+  "apiEndpoint": "https://api.balena-cloud.com",
+  "vpnEndpoint": "vpn.balena-cloud.com",
+  "registryEndpoint": "registry2.balena-cloud.com",
+  "deltaEndpoint": "https://delta.balena-cloud.com",
+  "mixpanelToken": "9ef939ea64cb6cd8bbc96af72345d70d",
+  "apiKey": "IOCN5NUXZQASLRWPWB6BEQBOZZW6G2FJ3MAF4QA",
+  "wifiSsid": "MySpectrumWiFic8-5g",
+  "wifiKey": "Tryagain0719",
+  "developmentMode": true
+}
